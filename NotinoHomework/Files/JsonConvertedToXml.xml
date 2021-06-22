@@ -1,0 +1,38 @@
+<root>
+   <quiz>
+      <maths>
+         <q1>
+            <answer>12</answer>
+            <options>
+               <element>10</element>
+               <element>11</element>
+               <element>12</element>
+               <element>13</element>
+            </options>
+            <question>5 + 7 = ?</question>
+         </q1>
+         <q2>
+            <answer>4</answer>
+            <options>
+               <element>1</element>
+               <element>2</element>
+               <element>3</element>
+               <element>4</element>
+            </options>
+            <question>12 - 8 = ?</question>
+         </q2>
+      </maths>
+      <sport>
+         <q1>
+            <answer>Huston Rocket</answer>
+            <options>
+               <element>New York Bulls</element>
+               <element>Los Angeles Kings</element>
+               <element>Golden State Warriros</element>
+               <element>Huston Rocket</element>
+            </options>
+            <question>Which one is correct team name in NBA?</question>
+         </q1>
+      </sport>
+   </quiz>
+</root>

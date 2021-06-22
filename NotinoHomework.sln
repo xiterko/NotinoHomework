@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30517.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NotinoHomework", "NotinoHomework\NotinoHomework.csproj", "{56D302D3-2B68-4640-BC2E-638DBE529B33}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Business.Test", "Business\Business.Test.csproj", "{C6DD72DA-D34F-4523-BA03-EA7B25BC722B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{56D302D3-2B68-4640-BC2E-638DBE529B33}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56D302D3-2B68-4640-BC2E-638DBE529B33}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56D302D3-2B68-4640-BC2E-638DBE529B33}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56D302D3-2B68-4640-BC2E-638DBE529B33}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C6DD72DA-D34F-4523-BA03-EA7B25BC722B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6DD72DA-D34F-4523-BA03-EA7B25BC722B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6DD72DA-D34F-4523-BA03-EA7B25BC722B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6DD72DA-D34F-4523-BA03-EA7B25BC722B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0E9785FC-C4E0-4DC1-B250-D6CB77CE949B}
+	EndGlobalSection
+EndGlobal
